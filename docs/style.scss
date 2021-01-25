@@ -1,0 +1,17 @@
+@import "../dist/index.scss";
+
+.test-wsui-rte-icons {
+  border: 1px solid red;
+}
+
+.page-icons {
+  text-align: center;
+  margin: 100px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  button {
+    border: 1px solid #ccc;
+    background: #eee;
+    vertical-align: top;
+  }
+}
