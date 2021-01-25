@@ -19,6 +19,13 @@ npm i @jswork/wsui-rte-icons
 @import '~@jswork/wsui-rte-icons/dist/style.css';
 ```
 
+```html
+<section class="wsui-rte-icons">
+  <button class="wsui-icon-undo is-active"></button>
+  <button class="wsui-icon-redo"></button>
+</section>
+```
+
 ## resources
 - https://react-rte.org/demo
 - https://github.com/sstur/react-rte/blob/master/src/ui/IconButton.css
