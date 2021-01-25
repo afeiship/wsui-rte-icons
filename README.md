@@ -26,6 +26,31 @@ npm i @jswork/wsui-rte-icons
 </section>
 ```
 
+## icons
+| name                | description |
+| ------------------- | ----------- |
+| undo                | -           |
+| redo                | -           |
+| unordered-list-item | -           |
+| ordered-list-item   | -           |
+| blockquote          | -           |
+| bold                | -           |
+| italic              | -           |
+| underline           | -           |
+| strikethrough       | -           |
+| code                | -           |
+| link                | -           |
+| remove-link         | -           |
+| image               | -           |
+| cancel              | -           |
+| accept              | -           |
+| align_left          | -           |
+| align_center        | -           |
+| align_right         | -           |
+| align_justify       | -           |
+
+
+
 ## resources
 - https://react-rte.org/demo
 - https://github.com/sstur/react-rte/blob/master/src/ui/IconButton.css
