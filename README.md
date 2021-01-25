@@ -23,6 +23,7 @@ npm i @jswork/wsui-rte-icons
 <section class="wsui-rte-icons">
   <button class="wsui-icon-undo is-active"></button>
   <button class="wsui-icon-redo"></button>
+  <!-- ... -->
 </section>
 ```
 
